@@ -1,1 +1,1 @@
-resd me
+read me
